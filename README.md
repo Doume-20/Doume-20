@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on the ben eater's 6502 computer
+- 🌱 I’m currently learning assembly, C and hardware
+- 🤔 I’m looking for help with the rs232 protocol for my breadboard computer
+- 📫 How to reach me: *doume_20* on discord
+
 <!--
 **Doume-20/Doume-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
