@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on the ben eater's 6502 computer
 - 🌱 I’m currently learning assembly, C and hardware
+- ⚡ I'm already know how to do Python, Basic and some breadboard things
 - 🤔 I’m looking for help with the rs232 protocol for my breadboard computer
 - 📫 How to reach me: *doume_20* on discord
 
