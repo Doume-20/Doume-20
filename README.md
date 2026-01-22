@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my arch linux install
 - 🌱 I’m also currently learning assembly, C/C++ and hardware
-- ⚡  I'm already know how to do Python, BASIC and some breadboard things
+- ⚡ I'm already know how to do Python, BASIC and some breadboard things
 - 📫 How to reach me: *doume_20* on discord
 
 <!--
