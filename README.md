@@ -4,6 +4,8 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Doume-20)](https://git.io/streak-stats)
+
 ## What I'm up to
 
 I just finished building a custom charger dock for batteries at my school.
