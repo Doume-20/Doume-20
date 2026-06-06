@@ -4,8 +4,6 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Doume-20&theme=dark)](https://git.io/streak-stats)
-
 ## What I'm up to
 
 I just finished building a custom charger dock for batteries at my school.
@@ -30,6 +28,8 @@ and C/C++ because Python feels too comfortable.
 ![Python](https://img.shields.io/badge/Python-teal?style=flat-square)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-learning-coral?style=flat-square)
 ![Assembly](https://img.shields.io/badge/Assembly-learning-purple?style=flat-square)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Doume-20&theme=dark)](https://git.io/streak-stats)
 
 ## Find me
 
