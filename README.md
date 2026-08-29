@@ -35,6 +35,8 @@ and C/C++ because Python feels too comfortable.
 
 Discord: `doume_20`
 
+I use arch btw :)
+
 > I don't check GitHub notifications. Discord is faster.
 <!--
 **Doume-20/Doume-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
