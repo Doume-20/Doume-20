@@ -1,6 +1,6 @@
 # hey, I'm Doume-20 👋
 
-> 10th grade · breaking things to understand them
+> 11th grade · breaking things to understand them
 
 ---
 
